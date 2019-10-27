@@ -1,4 +1,4 @@
-# mothersDay2019
+# motherDay2019
 ## Made for my mom :)
 # Answers
 ## 1. 03/27/1972
